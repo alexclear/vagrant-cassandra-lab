@@ -1,0 +1,3 @@
+- src: https://github.com/kofonfor/ansible-role-common-utils.git
+  version: ca85ae014692002e5960df9eb6a6c049d192e334
+  name: common-utils
