@@ -8,5 +8,5 @@
   version: 4a7c982c62c7d09e1b98fd2239b3c663d2fff56c
   name: java
 - src: https://github.com/kofonfor/ansible-role-oracle-jdk.git
-  version: dc74f8a25cc209bf0d9f429b3565181d06a48d77
+  version: 7e5bf869632842dddc2bedbbc395a3ad9698a262
   name: oracle-jdk

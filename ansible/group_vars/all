@@ -1,2 +1,3 @@
 cassandra_node_iface_int: eth1
-cassandra_java_home: /usr/java/jdk1.8.0_131/
+cassandra_java_home: /usr/lib/jvm/zulu-8/
+cassandra_path_data: ["/data/cassandra-data1", "/data/cassandra-data2"]
