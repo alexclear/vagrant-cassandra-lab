@@ -1,3 +1,12 @@
 - src: https://github.com/kofonfor/ansible-role-common-utils.git
   version: ca85ae014692002e5960df9eb6a6c049d192e334
   name: common-utils
+- src: https://github.com/kofonfor/ansible-role-cassandra.git
+  version: 82c1260ec50110c8435f2e5c348843a1b769a48e
+  name: cassandra
+- src: https://github.com/kofonfor/ansible-role-java.git
+  version: 4a7c982c62c7d09e1b98fd2239b3c663d2fff56c
+  name: java
+- src: https://github.com/kofonfor/ansible-role-oracle-jdk.git
+  version: dc74f8a25cc209bf0d9f429b3565181d06a48d77
+  name: oracle-jdk

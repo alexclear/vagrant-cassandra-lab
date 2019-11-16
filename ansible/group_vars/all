@@ -1,0 +1,2 @@
+cassandra_node_iface_int: eth1
+cassandra_java_home: /usr/java/jdk1.8.0_131/

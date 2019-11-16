@@ -6,3 +6,8 @@ cassandra3 ansible_host=172.16.147.4 ansible_ssh_private_key_file=/vagrant/.vagr
 cassandra1
 cassandra2
 cassandra3
+
+[cassandra_seeds]
+cassandra1
+cassandra2
+cassandra3
